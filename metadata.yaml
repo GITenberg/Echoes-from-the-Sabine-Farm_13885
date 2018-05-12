@@ -1,0 +1,46 @@
+_repo: Echoes-from-the-Sabine-Farm_13885
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Field, Roswell Martin
+    aliases:
+    - Field, Roswell M. (Roswell Martin)
+    - Field, R. M. (Roswell Martin)
+    birthdate: 1851
+    deathdate: 1919
+    gutenberg_agent_id: '5268'
+    url: http://www.gutenberg.org/2009/agents/5268
+  - agent_name: Field, Eugene
+    birthdate: 1850
+    deathdate: 1895
+    gutenberg_agent_id: '238'
+    url: http://www.gutenberg.org/2009/agents/238
+    wikipedia: http://en.wikipedia.org/wiki/Eugene_Field
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Horace
+    aliases:
+    - Flaccus, Quintus Horatius
+    - Horatius Flaccus, Quintus
+    birthdate: -65
+    deathdate: -8
+    gutenberg_agent_id: '1790'
+    url: http://www.gutenberg.org/2009/agents/1790
+    wikipedia: http://en.wikipedia.org/wiki/Horace
+description: ''
+gutenberg_issued: '2004-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horace -- Translations into English'
+- !lcc 'PA'
+title: Echoes from the Sabine Farm
+url: http://www.gutenberg.org/ebooks/13885
