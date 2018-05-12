@@ -31,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1790
     wikipedia: http://en.wikipedia.org/wiki/Horace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13885#Echoes-from-the-Sabine-Farm
 gutenberg_issued: '2004-10-27'
 gutenberg_type: Text
 identifiers:
